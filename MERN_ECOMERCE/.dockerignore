@@ -1,0 +1,13 @@
+node_modules
+npm-debug.log
+
+.env
+
+.git
+.gitignore
+
+client/ecommerce/node_modules
+client/ecommerce/dist
+
+client/super-admin/node_modules
+client/super-admin/dist
